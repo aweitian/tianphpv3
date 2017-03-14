@@ -1,0 +1,17 @@
+{
+    "name": "aweitian/tianphpv3",
+    "description": "A simple php framework.",
+    "type": "library",
+    "require": {
+        "nette/mail": "*",
+        "predis/predis": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tiananwei",
+            "email": "awei.tian@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
